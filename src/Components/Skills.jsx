@@ -1,3 +1,106 @@
+// import React from 'react'
+
+// function Skills() {
+//   return (
+//     <section className="bg-slate-950 text-gray-200 min-h-screen px-6 py-20">
+
+//       <div className="max-w-6xl mx-auto">
+
+//         {/* Heading */}
+//         <h1 className="text-4xl md:text-5xl font-bold text-center text-blue-400 mb-12">
+//           My Skills
+//         </h1>
+
+//         {/* Skills Cards */}
+//         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+
+//           {/* Frontend */}
+//           <div className="bg-slate-900 p-6 rounded-xl shadow-lg">
+//             <h2 className="text-2xl font-bold text-blue-400 mb-4">
+//               Frontend
+//             </h2>
+
+//             <ul className="space-y-2">
+//               <li>✔ HTML</li>
+//               <li>✔ CSS</li>
+//               <li>✔ JavaScript</li>
+//               <li>✔ React</li>
+//               <li>✔ Tailwind CSS</li>
+//             </ul>
+//           </div>
+
+//           {/* Database */}
+//           <div className="bg-slate-900 p-6 rounded-xl shadow-lg">
+//             <h2 className="text-2xl font-bold text-violet-400 mb-4">
+//               Database
+//             </h2>
+
+//             <ul className="space-y-2">
+//               <li>✔ MySQL</li>
+//               <li>✔ SQL</li>
+//             </ul>
+//           </div>
+
+//           {/* Tools */}
+//           <div className="bg-slate-900 p-6 rounded-xl shadow-lg">
+//             <h2 className="text-2xl font-bold text-amber-400 mb-4">
+//               Tools
+//             </h2>
+
+//             <ul className="space-y-2">
+//               <li>✔ Git</li>
+//               <li>✔ GitHub</li>
+//               <li>✔ VS Code</li>
+//               <li>✔ Canva</li>
+//             </ul>
+//           </div>
+
+//           {/* Soft Skills */}
+//           <div className="bg-slate-900 p-6 rounded-xl shadow-lg">
+//             <h2 className="text-2xl font-bold text-rose-400 mb-4">
+//               Soft Skills
+//             </h2>
+
+//             <ul className="space-y-2">
+//               <li>✔ Team Collaboration</li>
+//               <li>✔ Problem Solving</li>
+//               <li>✔ Communication</li>
+//               <li>✔ Time Management</li>
+//             </ul>
+//           </div>
+
+//         </div>
+//       </div>
+//     </section>
+//   )
+// }
+
+// export default Skills
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import React from 'react'
 import Nav from './Nav';
 
